@@ -15,6 +15,7 @@ namespace myFirstProject
         public static void Main(string[] args)
         {
             //your code is here
+            Console.WriteLine("Hello world");
             
             CreateWebHostBuilder(args).Build().Run();
         }
@@ -24,3 +25,4 @@ namespace myFirstProject
                 .UseStartup<Startup>();
     }
 }
+
