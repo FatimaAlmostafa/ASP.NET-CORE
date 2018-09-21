@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0C7DCB23-51A7-4422-838C-C86B9A90736E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CatController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CatController.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.myFirstProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
